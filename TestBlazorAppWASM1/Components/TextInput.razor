@@ -1,0 +1,9 @@
+﻿<input type="text" class="form-control" @attributes="Attributes"/>
+@code {
+	// [Parameter]
+	// public string? PlaceHolder { get; set; }
+	// [Parameter]
+	// public int? MaxLength { get; set; }
+	[Parameter(CaptureUnmatchedValues =true)]
+	public Dictionary<string, object> Attributes { get; set; } = new Dictionary<string, object>();
+}

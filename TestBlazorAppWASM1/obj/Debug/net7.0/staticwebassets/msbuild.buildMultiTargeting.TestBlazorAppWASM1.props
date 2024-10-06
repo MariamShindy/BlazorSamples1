@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestBlazorAppWASM1.props" />
+</Project>

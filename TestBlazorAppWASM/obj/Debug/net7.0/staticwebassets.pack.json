@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Route\\Tasks\\TestBlazorAppSolution\\TestBlazorAppWASM\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Route\\Tasks\\TestBlazorAppSolution\\TestBlazorAppWASM\\obj\\Debug\\net7.0\\compressed\\v9srw3tsbk.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Route\\Tasks\\TestBlazorAppSolution\\TestBlazorAppWASM\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Route\\Tasks\\TestBlazorAppSolution\\TestBlazorAppWASM\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TestBlazorAppWASM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TestBlazorAppWASM.props",
+      "PackagePath": "build\\TestBlazorAppWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TestBlazorAppWASM.props",
+      "PackagePath": "buildMultiTargeting\\TestBlazorAppWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TestBlazorAppWASM.props",
+      "PackagePath": "buildTransitive\\TestBlazorAppWASM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

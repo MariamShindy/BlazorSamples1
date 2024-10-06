@@ -1,0 +1,12 @@
+﻿@page "/one"
+<h3>One</h3>
+<CascadingValue Value="message" Name="message">
+	<CascadingValue Value="number" Name="myNumber">
+<Two/>
+</CascadingValue>
+</CascadingValue>
+@code {
+	public string message { get; set; } = "Hello from one";
+	public int number { get; set; } = 20;
+
+}

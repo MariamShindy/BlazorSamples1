@@ -1,0 +1,11 @@
+﻿<h3>Three</h3>
+<p>@message</p>
+<p>@number</p>
+
+@code {
+	[CascadingParameter(Name ="message")]
+	public string? message { get; set; }
+	[CascadingParameter(Name = "myNumber")]
+	public int? number { get; set; }
+}
+
