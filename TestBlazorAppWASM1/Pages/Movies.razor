@@ -1,0 +1,22 @@
+﻿@page "/movies/{genre}/{year:int}"
+<h3>Movies</h3>
+@* <h2>@Genre - @Cienma</h2>
+<h2>@Values</h2> *@
+<h2>@Genre - @Year</h2>
+
+@code {
+	// [Parameter]
+	// [SupplyParameterFromQuery]
+	// public string? Genre { get; set; }
+	// [Parameter]
+	// [SupplyParameterFromQuery]
+	// public string? Cienma { get; set; }
+	// [Parameter]
+	// public string? Values { get; set; }
+
+	[Parameter]
+	public string? Genre { get; set; }
+	[Parameter]
+	public int? Year { get; set; }
+
+}

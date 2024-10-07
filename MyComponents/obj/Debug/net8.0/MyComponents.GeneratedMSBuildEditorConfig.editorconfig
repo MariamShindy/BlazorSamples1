@@ -9,19 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = MyComponents
 build_property.RootNamespace = MyComponents
-build_property.ProjectDir = D:\Route\Tasks\TestBlazorAppSolution\MyComponents\
+build_property.ProjectDir = D:\Route\Tasks\TestBlazorAppSolution\BlazorSamples1\MyComponents\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Route\Tasks\TestBlazorAppSolution\MyComponents
+build_property.MSBuildProjectDirectory = D:\Route\Tasks\TestBlazorAppSolution\BlazorSamples1\MyComponents
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/MyComponents/_Imports.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/MyComponents/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/MyComponents/Component1.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/MyComponents/Component1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-zppxfgm6v6

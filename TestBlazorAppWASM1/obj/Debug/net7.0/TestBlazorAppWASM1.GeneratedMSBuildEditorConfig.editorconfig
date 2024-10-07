@@ -13,63 +13,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = TestBlazorAppWASM1
 build_property.RootNamespace = TestBlazorAppWASM1
-build_property.ProjectDir = D:\Route\Tasks\TestBlazorAppSolution\TestBlazorAppWASM1\
+build_property.ProjectDir = D:\Route\Tasks\TestBlazorAppSolution\BlazorSamples1\TestBlazorAppWASM1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Route\Tasks\TestBlazorAppSolution\TestBlazorAppWASM1
+build_property.MSBuildProjectDirectory = D:\Route\Tasks\TestBlazorAppSolution\BlazorSamples1\TestBlazorAppWASM1
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/App.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Components/Card.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Components/Card.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Components/TextInput.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Components/TextInput.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXh0SW5wdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Pages/Counter.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Pages/FetchData.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Pages/Index.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Pages/One.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Pages/Movies.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Pages/One.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT25lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Pages/Three.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Pages/Three.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhyZWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Pages/Two.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Pages/Two.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHdvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Shared/SurveyPrompt.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/_Imports.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Shared/MainLayout.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-g7c6sjjbey
 
-[D:/Route/Tasks/TestBlazorAppSolution/TestBlazorAppWASM1/Shared/NavMenu.razor]
+[D:/Route/Tasks/TestBlazorAppSolution/BlazorSamples1/TestBlazorAppWASM1/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-y3kjcbm1n1
